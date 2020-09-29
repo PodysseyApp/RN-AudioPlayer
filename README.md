@@ -18,3 +18,5 @@ Questions to answer once you're done:
 - If you have more time to do UI / UX improvements, what improvements would you make?
 - Do you see any pros / cons working with `react-native-track-player`?
 - How would you go about implementing offline listening for the episodes?
+
+When you want to submit the assigment & answers, email it to info@podyssey.fm. You can either send in your code in a zip file or a link to the repo.
