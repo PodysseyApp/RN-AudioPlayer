@@ -12,7 +12,7 @@ Objective: To make a 1 Screen React Native app that:
 Notes:
 - Use https://github.com/react-native-kit/react-native-track-player to help you play the audio tracks.
 - Don't feel pressure to do much UI / UX work, this assignment will be mainly graded on code quality.
-- Time esimation: 3 to 4 hours
+- Time esimation: up to 8 hours (if never worked on React Native or with `react-native-track-player`)
 
 Questions to answer once you're done:
 - If you have more time to do UI / UX improvements, what improvements would you make?
